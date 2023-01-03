@@ -36,7 +36,7 @@ body{font-family: 'Noto Sans KR', sans-serif;}
 
     .con1_inner{
         width: 1320px; height: 100%;
-        margin: 0 auto;
+        margin: 0 auto; overflow: hidden;
     }
 
     .con1_l{
